@@ -1,0 +1,12 @@
+[submodule "api-test"]
+	path = api-test
+	url = https://github.com/lrs-rodrigues/tasks-api-test
+[submodule "funcional-test"]
+	path = funcional-test
+	url = https://github.com/lrs-rodrigues/tasks-funcional-tests
+[submodule "tasks-backend"]
+	path = tasks-backend
+	url = https://github.com/lrs-rodrigues/tasks-backend
+[submodule "tasks-frontend"]
+	path = tasks-frontend
+	url = https://github.com/lrs-rodrigues/tasks-frontend
